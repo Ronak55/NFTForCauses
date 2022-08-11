@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styleTez.css">
+    <title>Document</title>
+</head>
+<body>
+    <section id="about">
+        <div class="about-1">
+            <h1>ABOUT US</h1>            
+            <p class="body"> NFTforCause consists of Non - Government Organization (NGO) whose primary focus is on the objective 
+            of creating awareness for the artists whose work are not recognised. The main aim of the project is 
+            to benefit the artists who work hard enough and did'nt get paid what they genuinly deserve. Here the 
+            artists gets a scope to have some profit on their art. The promoters of the organization have opted 
+            to work on the belief for upliftment of the talented deprived section of our society. It aims to give
+             back to the society whatever has been received right from the birth.
+            </p>
+        </div>
+        <div class="about-2">
+            <div class="column">
+                <i class="fa fa-book"></i>
+                                <h3>MISSION</h3>
+                                <hr>
+                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit perspiciatis 
+                                    eaque aliquid officiis rerum ratione vel. Tenetur ad id cumque?</p>
+                            
+            </div>
+            <div class="column">
+                <i class="fa fa-globe"></i>
+                            <h3>VISION</h3>
+                            <hr>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit perspiciatis 
+                                eaque aliquid officiis rerum ratione vel. Tenetur ad id cumque?</p>
+                        
+            </div>
+            <div class="column">
+                <i class="fa fa-pencil"></i>
+                        <h3>ACHEIVEMENTS</h3>
+                        <hr>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit perspiciatis 
+                            eaque aliquid officiis rerum ratione vel. Tenetur ad id cumque?</p>
+                    
+            </div>
+        </div>
+    </section>
+    <footer class="text-center">
+        <p>Copyright &copy; 2021 All rights reserved by Freedie Nice Inc.</p>
+    </footer>
+</body>
+</html>
